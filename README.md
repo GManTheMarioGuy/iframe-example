@@ -1,0 +1,4 @@
+# How to use this
+Go to main.js and run it in the browser js console on a website or go to about:blank for a blank page the most known website it has support on is: Youtube (https://youtube.com)
+The Code:
+https://github.com/uuphoria2/play-sm64js-on-any-website/blob/main/main.js
