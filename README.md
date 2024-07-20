@@ -4,7 +4,7 @@ Go to main.js and copy and paste it (the whole thing) then run it in the browser
 [The Code](https://github.com/uuphoria2/play-sm64js-on-any-website/blob/main/main.js)
 
 
-# If you have already ran it tho want to change it to a different site now then use this and change the URL to what you want:
+# If you have already ran it tho want to change it to a different site now then use this and change the URL to what you want (main2.js)
 [The Code](https://github.com/uuphoria2/play-sm64js-on-any-website/blob/main/main2.js)
 
 You can change the URL to any existing site not just sm64js. (just so you know)
