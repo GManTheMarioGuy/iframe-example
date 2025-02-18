@@ -39,4 +39,4 @@ iframe.style.left = "0";
 
 iframe.style.width = "100%";
 
-iframe.style.height = "100%"; // Made by uuphoria github.com/uuphoria2
+iframe.style.height = "100%"; // Made by gmanthemarioguy, https://github.com/gmanthemarioguy
