@@ -3,7 +3,7 @@ let div = document.createElement("div");
 
 div.innerHTML = `
 
-  <iframe src="https://sm64js.com"<!--replace this with whatever you want-->
+  <iframe src="https://gmanthemarioguy.is-a.dev"<!--replace this with whatever you want-->
 
           width="1920"
 
